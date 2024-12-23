@@ -25,7 +25,7 @@
         "spatie/regex": "^3.1",
         "react/async": "^4.0.0",
         "exan/eventer": "^1.0.3",
-        "exan/reactphp-retrier": "^1.0",
+        "exan/reactphp-retrier": "^1.0 || ^2.0",
         "freezemage0/array_find": "^1.0",
         "react/promise": "^2.11.0"
     },
