@@ -17,7 +17,6 @@
     "minimum-stability": "stable",
     "require": {
         "react/event-loop": "^1.3.0",
-        "ratchet/pawl": "^0.4.1",
         "evenement/evenement": "^3.0.0",
         "nesbot/carbon": "^2.64 || ^3.0",
         "discord-php/http": "^v10.3.0",
@@ -27,7 +26,8 @@
         "exan/eventer": "^1.0.3",
         "exan/reactphp-retrier": "^2.0",
         "freezemage0/array_find": "^1.0",
-        "react/promise": "^3"
+        "react/promise": "^3",
+        "exan/pawl": "0.4.3"
     },
     "require-dev": {
         "monolog/monolog": "^3.2",
