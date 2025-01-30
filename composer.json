@@ -31,7 +31,7 @@
     },
     "require-dev": {
         "monolog/monolog": "^3.2",
-        "phpunit/phpunit": "^9.5 || ^10.0",
+        "phpunit/phpunit": "^9.5 || ^10.0 || ^11.0",
         "cboden/ratchet": "^0.4.4",
         "phpmd/phpmd": "^2.13",
         "symfony/var-dumper": "^6.2",
